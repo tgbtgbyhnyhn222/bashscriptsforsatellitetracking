@@ -1,8 +1,8 @@
 # bashscriptsforsatellitetracking
-Bash Scripts for Satellite Tracking
+Bash Scripts for Satellite Tracking: 
 
 In this repository, I will be placing Bash Scripts for Satellite Tracking. 
-This is mainly for Bash scripting and Python scripting. 
+This is mainly for Bash scripting and Python scripting practice. 
 
 Just because the script is in here, does not mean it was a completely original idea. 
 In fact, many of these are not original and I have made slight spin offs of them, 
