@@ -6,7 +6,9 @@ This is mainly for Bash scripting and Python scripting practice.
 
 Just because the script is in here, does not mean it was a completely original idea. 
 In fact, many of these are not original and I have made slight spin offs of them, 
-or elaborated on a concept. 
+or elaborated on a concept that I functionally understand to a certain extent and wondered about.
 
 There are individual README.txt files for each script.
+
+Enjoy!
 
